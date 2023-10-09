@@ -20,3 +20,16 @@ Currently, two official plugins are available:
 - Feature C (In progress)
 - Feature D (Planned)
 
+## Project Tasks
+
+- [x] Task 1 (Completed)
+- [x] Task 2 (Completed)
+- [ ] Task 3 (Not completed yet)
+- [ ] Task 4 (Not started)
+
+## Features
+
+- [x] Feature A (Implemented)
+- [x] Feature B (Implemented)
+- [ ] Feature C (In progress)
+- [ ] Feature D (Planned)
